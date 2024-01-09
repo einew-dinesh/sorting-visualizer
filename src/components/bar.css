@@ -1,0 +1,20 @@
+/* bar.css */
+
+.bar {
+    border: 1px solid #333;
+    margin: 3px;
+    transition: height 0.2s, background-color 0.2s;
+  }
+  
+  .bar.green {
+    background-color: #2ecc71;
+  }
+  
+  .bar.red {
+    background-color: #e74c3c;
+  }
+  
+  .bar.yellow {
+    background-color: #f39c12;
+  }
+  
